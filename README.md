@@ -75,10 +75,6 @@
   <img src="https://avatars.githubusercontent.com/u/21396729?s=200&v=4" alt="debezium" width="40" height="40"/>
 </a>
 
-<!-- OpenAI APIs -->
-<a href="https://platform.openai.com/" target="_blank" rel="noreferrer">
-  <img src="https://seeklogo.com/images/O/openai-logo-8B9BFEDC26-seeklogo.com.png" alt="openai" width="40" height="40"/>
-</a>
 
 </p>
 
